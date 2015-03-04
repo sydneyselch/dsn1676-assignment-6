@@ -41,7 +41,6 @@ $circle.on('webkitAnimationEnd animationend', function (){
     
 
 
-
 $btnAppend.on('click', function (){
     var $theLi = $('<li> Text here </li>')
     $list.append($theLi)
